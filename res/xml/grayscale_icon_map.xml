@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<icons>
+    <icon drawable="@drawable/camera" name="Camera" package="com.android.camera2"/>
+    <icon drawable="@drawable/camera" name="Camera" package="org.codeaurora.snapcam"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.google.android.GoogleCameraEng"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.android.mgc"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.android.MGC.not.stable"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.sec.android.app.camera"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.google.android.apps.cameralite"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.oneplus.camera"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.oppo.camera"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.oplus.camera"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.android.camera"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.huawei.camera"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.honor.camera"/>
+    <icon drawable="@drawable/camera" name="Camera" package="org.lineageos.snap"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.motorola.cameraone"/>
+    <icon drawable="@drawable/camera" name="Camera" package="app.grapheneos.camera"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.google.android.googlecamera.parrot"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.google.android.MTCL83"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.asus.camera"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.shamim.cam"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.google.android.GoogleCameraEng2"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.google.android.GoogleCamera.parrot"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.google.android.GoogleCamera.nikita"/>
+    <icon drawable="@drawable/camera" name="Camera" package="com.android.MGC"/>
+    <icon drawable="@drawable/chrome_beta" name="Chrome Beta" package="com.chrome.beta"/>
+    <icon drawable="@drawable/chrome_dev" name="Chrome Dev" package="com.chrome.dev"/>
+    <icon drawable="@drawable/ic_com_android_chrome" name="Chrome Dev" package="com.android.chrome"/>
+    <icon drawable="@drawable/darq" name="DarQ" package="com.kieronquinn.app.darq"/>
+    <icon drawable="@drawable/files" name="Files" package="com.google.android.documentsui"/>
+    <icon drawable="@drawable/files" name="Files" package="com.android.documentsui"/>
+    <icon drawable="@drawable/myjio" name="MyJio" package="com.jio.myjio"/>
+    <icon drawable="@drawable/nekogram_x" name="Nekogram X" package="nekox.messenger"/>
+    <icon drawable="@drawable/files" name="Files" package="com.sec.android.app.myfiles"/>
+    <icon drawable="@drawable/spark_email" name="Spark Email" package="com.readdle.spark"/>
+    <icon drawable="@drawable/pocket_casts" name="Pocket Casts" package="au.com.shiftyjelly.pocketcasts"/>
+    <icon drawable="@drawable/citymapper" name="Citymapper" package="com.citymapper.app.release"/>
+    <icon drawable="@drawable/discord" name="Discord" package="com.discord"/>
+    <icon drawable="@drawable/telegram" name="Telegram" package="org.telegram.messenger"/>
+    <icon drawable="@drawable/telegram" name="Telegram" package="org.telegram.messenger.web"/>
+    <icon drawable="@drawable/telegram" name="Telegram" package="org.telegram.messenger.beta"/>
+    <icon drawable="@drawable/bgram" name="BGram" package="org.telegram.BifToGram"/>
+    <icon drawable="@drawable/binance" name="Binance" package="com.binance.dev"/>
+    <icon drawable="@drawable/spotify" name="Spotify" package="com.spotify.music"/>
+    <icon drawable="@drawable/facebook" name="Facebook" package="com.facebook.katana"/>
+    <icon drawable="@drawable/messenger" name="Messenger" package="com.facebook.orca"/>
+    <icon drawable="@drawable/netflix" name="Netflix" package="com.netflix.mediaclient"/>
+    <icon drawable="@drawable/github" name="GitHub" package="com.github.android"/>
+    <icon drawable="@drawable/magisk" name="Magisk" package="com.topjohnwu.magisk"/>
+    <icon drawable="@drawable/sync" name="Sync" package="com.laurencedawson.reddit_sync"/>
+    <icon drawable="@drawable/sync" name="Sync" package="com.laurencedawson.reddit_sync.pro"/>
+    <icon drawable="@drawable/sync" name="Sync" package="com.laurencedawson.reddit_sync.dev"/>
+    <icon drawable="@drawable/strava" name="Strava" package="com.strava"/>
+    <icon drawable="@drawable/opera_browser" name="Opera Browser" package="com.opera.browser"/>
+    <icon drawable="@drawable/whatsapp" name="WhatsApp" package="com.whatsapp"/>
+    <icon drawable="@drawable/reddit" name="Reddit" package="com.reddit.frontpage"/>
+    <icon drawable="@drawable/twitter" name="Twitter" package="com.twitter.android"/>
+    <icon drawable="@drawable/dashlane" name="Dashlane" package="com.dashlane"/>
+    <icon drawable="@drawable/youtube_vanced" name="YouTube Vanced" package="com.vanced.android.youtube"/>
+    <icon drawable="@drawable/instagram" name="Instagram" package="com.instagram.android"/>
+    <icon drawable="@drawable/tiktok" name="TikTok" package="com.zhiliaoapp.musically"/>
+    <icon drawable="@drawable/tiktok" name="TikTok" package="com.ss.android.ugc.trill"/>
+    <icon drawable="@drawable/pinterest" name="Pinterest" package="com.pinterest"/>
+    <icon drawable="@drawable/snapchat" name="Snapchat" package="com.snapchat.android"/>
+    <icon drawable="@drawable/telegram_x" name="Telegram X" package="org.thunderdog.challegram"/>
+    <icon drawable="@drawable/telegram_x" name="Telegram X" package="org.thunderdog.challegramtwo"/>
+    <icon drawable="@drawable/firefox" name="Firefox" package="org.mozilla.firefox"/>
+    <icon drawable="@drawable/firefox_beta" name="Firefox Beta" package="org.mozilla.firefox_beta"/>
+    <icon drawable="@drawable/firefox_beta" name="Firefox Beta" package="org.mozilla.fenix"/>
+    <icon drawable="@drawable/signal" name="Signal" package="org.thoughtcrime.securesms"/>
+    <icon drawable="@drawable/skype" name="Skype" package="com.skype.raider"/>
+    <icon drawable="@drawable/termux" name="Termux" package="com.termux"/>
+    <icon drawable="@drawable/twitch" name="Twitch" package="tv.twitch.android.app"/>
+    <icon drawable="@drawable/twitch" name="Twitch" package="tv.twitch.bttvandroid.app"/>
+    <icon drawable="@drawable/poweramp" name="Poweramp" package="com.maxmpz.audioplayer"/>
+    <icon drawable="@drawable/mixplorer" name="MiXplorer" package="com.mixplorer.silver"/>
+    <icon drawable="@drawable/mixplorer" name="MiXplorer" package="com.mixplorer.beta"/>
+    <icon drawable="@drawable/mixplorer" name="MiXplorer" package="com.mixplorer"/>
+    <icon drawable="@drawable/whatsapp_business" name="WhatsApp Business" package="com.whatsapp.w4b"/>
+    <icon drawable="@drawable/microsoft_edge" name="Microsoft Edge" package="com.microsoft.emmx"/>
+    <icon drawable="@drawable/microsoft_edge" name="Microsoft Edge" package="com.microsoft.emmx.beta"/>
+    <icon drawable="@drawable/microsoft_edge" name="Microsoft Edge" package="com.microsoft.emmx.dev"/>
+    <icon drawable="@drawable/microsoft_todo" name="Microsoft To Do" package="com.microsoft.todos"/>
+    <icon drawable="@drawable/oto_music" name="Oto Music" package="com.piyush.music"/>
+    <icon drawable="@drawable/soundcloud" name="SoundCloud" package="com.soundcloud.android"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.samsung.android.dialer"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.oneplus.dialer"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.android.dialer"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.truecaller"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.android.incallui"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.android.dialer"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.asus.dialer"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.candykk.android.dialer"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.candykk.android.dialer2"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.sonymobile.android.dialer"/>
+    <icon drawable="@drawable/dialer" name="Phone" package="com.google.android.dialer"/>
+    <icon drawable="@drawable/messages" name="Messages" package="com.samsung.android.messaging"/>
+    <icon drawable="@drawable/messages" name="Messages" package="com.android.messaging"/>
+    <icon drawable="@drawable/messages" name="Messages" package="com.candykk.android.messaging"/>
+    <icon drawable="@drawable/messages" name="Messages" package="com.google.android.apps.messaging"/>
+    <icon drawable="@drawable/calculator" name="Calculator" package="com.android.calculator2"/>
+    <icon drawable="@drawable/calculator" name="Calculator" package="com.sec.android.app.popupcalculator"/>
+    <icon drawable="@drawable/calculator" name="Calculator" package="com.oneplus.calculator"/>
+    <icon drawable="@drawable/calculator" name="Calculator" package="com.miui.calculator"/>
+    <icon drawable="@drawable/gallery" name="Gallery" package="com.android.gallery3d"/>
+    <icon drawable="@drawable/gallery" name="Gallery" package="com.sec.android.gallery3d"/>
+    <icon drawable="@drawable/gallery" name="Gallery" package="com.oneplus.gallery"/>
+    <icon drawable="@drawable/gallery" name="Gallery" package="com.miui.gallery"/>
+    <icon drawable="@drawable/gallery" name="Gallery" package="com.asus.gallery"/>
+    <icon drawable="@drawable/browser" name="Browser" package="org.droidtr.jelly"/>
+    <icon drawable="@drawable/sbrowser" name="Samsung Internet Browser" package="com.sec.android.app.sbrowser"/>
+    <icon drawable="@drawable/browser" name="Browser" package="org.lineageos.jelly"/>
+    <icon drawable="@drawable/plus_messenger" name="Plus Messenger" package="org.telegram.plus"/>
+    <icon drawable="@drawable/via_browser" name="Via Browser" package="mark.via.gp"/>
+    <icon drawable="@drawable/brave_browser" name="Brave Browser" package="com.brave.browser"/>
+    <icon drawable="@drawable/globeone" name="GlobeOne" package="ph.com.globe.globeonesuperapp"/>
+    <icon drawable="@drawable/simplenote" name="Simplenote" package="com.automattic.simplenote"/>
+    <icon drawable="@drawable/yeelight" name="Yeelight" package="com.yeelight.cherry"/>
+    <icon drawable="@drawable/apple_music" name="Apple Music" package="com.apple.android.music"/>
+    <icon drawable="@drawable/ebay_kleinanzeigen" name="eBay Kleinanzeigen" package="com.ebay.kleinanzeigen"/>
+    <icon drawable="@drawable/opera_gx" name="Opera GX" package="com.opera.gx"/>
+    <icon drawable="@drawable/gallery_go" name="Gallery Go" package="com.google.android.apps.photosgo"/>
+    <icon drawable="@drawable/tapatalk_pro" name="Tapatalk Pro" package="com.quoord.tapatalk"/>
+    <icon drawable="@drawable/xda" name="XDA" package="com.xda.labs"/>
+    <icon drawable="@drawable/catogram" name="Catogram" package="ua.itaysonlab.messenger"/>
+    <icon drawable="@drawable/mx_player" name="MX Player" package="com.mxtech.videoplayer.pro"/>
+    <icon drawable="@drawable/mx_player" name="MX Player" package="com.mxtech.videoplayer.ad"/>
+    <icon drawable="@drawable/snapseed" name="Snapseed" package="com.niksoftware.snapseed"/>
+    <icon drawable="@drawable/solid_explorer" name="Solid Explorer" package="pl.solidexplorer2"/>
+    <icon drawable="@drawable/drivedroid" name="DriveDroid" package="com.softwarebakery.drivedroid"/>
+    <icon drawable="@drawable/facebook" name="Facebook" package="com.facebook.lite"/>
+    <icon drawable="@drawable/bromite" name="Bromite" package="org.bromite.bromite"/>
+    <icon drawable="@drawable/stellio" name="Stellio" package="io.stellio.music"/>
+    <icon drawable="@drawable/dialer" name="Dialer" package="com.truecaller"/>
+    <icon drawable="@drawable/amazon_primevideo" name="Amazon Prime Video" package="com.amazon.avod.thirdpartyclient"/>
+    <icon drawable="@drawable/amazon_music" name="Amazon Music" package="com.amazon.mp3"/>
+    <icon drawable="@drawable/ymusic" name="YMusic" package="com.kapp.youtube.final"/>
+    <icon drawable="@drawable/simple_gallery_pro" name="Simple Gallery Pro" package="com.simplemobiletools.gallery.pro"/>
+    <icon drawable="@drawable/swift_backup" name="Swift Backup" package="org.swiftapps.swiftbackup"/>
+    <icon drawable="@drawable/sweech" name="Sweech" package="com.sweech"/>
+    <icon drawable="@drawable/speedtest_by_ookla" name="Speedtest by Ookla" package="org.zwanoo.android.speedtest"/>
+    <icon drawable="@drawable/progressbar95" name="Progressbar95" package="com.spookyhousestudios.progressbar95"/>
+    <icon drawable="@drawable/alipay" name="alipay" package="com.eg.android.AlipayGphone"/>
+    <icon drawable="@drawable/bilibili" name="bilibili" package="tv.danmaku.bili"/>
+    <icon drawable="@drawable/wechat" name="wechat" package="com.tencent.mm"/>
+    <icon drawable="@drawable/bilibili" name="bilibili" package="com.bilibili.app.in"/>
+    <icon drawable="@drawable/zhihu" name="zhihu" package="com.zhihu.android"/>
+    <icon drawable="@drawable/magisk" name="magisk" package="ai.lqdxaszd.clbbyj"/>
+    <icon drawable="@drawable/wangyiyun" name="wangyiyun" package="com.netease.cloudmusic"/>
+    <icon drawable="@drawable/cool" name="cool" package="com.coolapk.market"/>
+    <icon drawable="@drawable/thanox" name="thanox Pro" package="github.tornaco.android.thanos.pro"/>
+    <icon drawable="@drawable/thanox" name="thanox" package="github.tornaco.android.thanos"/>
+    <icon drawable="@drawable/gaode" name="gaode" package="com.autonavi.minimap"/>
+    <icon drawable="@drawable/read" name="read" package="io.legado.app.release"/>
+    <icon drawable="@drawable/xingtu" name="xingtu" package="com.xt.retouch"/>
+    <icon drawable="@drawable/dingding" name="dingding" package="com.alibaba.android.rimet"/>
+    <icon drawable="@drawable/alibaba" name="alibaba" package="com.alibaba.wireless"/>
+    <icon drawable="@drawable/aliyun" name="aliyun" package="com.alicloud.databox"/>
+    <icon drawable="@drawable/tieba" name="tieba" package="com.baidu.tieba"/>
+    <icon drawable="@drawable/tieba" name="tieba" package="com.huanchengfly.tieba.post"/>
+    <icon drawable="@drawable/baiduyun" name="baiduyun" package="com.baidu.netdisk"/>
+    <icon drawable="@drawable/bijian" name="bijian" package="com.bilibili.studio"/>
+    <icon drawable="@drawable/dazhong" name="dazhong" package="com.dianping.v1"/>
+    <icon drawable="@drawable/didi" name="didi" package="com.sdu.didi.psnger"/>
+    <icon drawable="@drawable/dianxin" name="dianxin" package="com.ct.client"/>
+    <icon drawable="@drawable/eleme" name="eleme" package="me.ele"/>
+    <icon drawable="@drawable/feizhu" name="feizhu" package="com.taobao.trip"/>
+    <icon drawable="@drawable/huaxiaozhu" name="huaxiaozhu" package="com.huaxiaozhu.rider"/>
+    <icon drawable="@drawable/jd" name="jd" package="com.jingdong.app.mall"/>
+    <icon drawable="@drawable/jdjr" name="jdjr" package="com.jd.jrapp"/>
+    <icon drawable="@drawable/jf" name="jf" package="com.jd.jxj"/>
+    <icon drawable="@drawable/liantong" name="liantonge" package="com.sinovatech.unicom.ui"/>
+    <icon drawable="@drawable/liantong" name="liantonge" package="com.sinovatech.unicom.ui.App"/>
+    <icon drawable="@drawable/maidan" name="maidan" package="com.bankcomm.maidanba"/>
+    <icon drawable="@drawable/mai" name="mai" package="com.mcdonalds.gma.cn"/>
+    <icon drawable="@drawable/meituan" name="meituan" package="com.sankuai.meituan"/>
+    <icon drawable="@drawable/meituanwaimai" name="meituanwaimaie" package="com.sankuai.meituan.takeoutnew"/>
+    <icon drawable="@drawable/pdd" name="pdd" package="com.xunmeng.pinduoduo"/>
+    <icon drawable="@drawable/taobao" name="taobao" package="com.taobao.taobao"/>
+    <icon drawable="@drawable/meiri" name="meiri" package="cn.missfresh.application"/>
+    <icon drawable="@drawable/yonghui" name="yonghui" package="cn.yonghui.hyd"/>
+    <icon drawable="@drawable/txdt" name="txmap" package="com.tencent.map"/>
+    <icon drawable="@drawable/xianyu" name="xianyu" package="com.taobao.idlefish"/>
+    <icon drawable="@drawable/nongshang" name="nongshang" package="com.csii.sns.ui"/>
+    <icon drawable="@drawable/zhide" name="zhide" package="com.smzdm.client.android"/>
+    <icon drawable="@drawable/lianmeng" name="lianmenge" package="com.alimama.moon"/>
+    <icon drawable="@drawable/taote" name="taote" package="com.taobao.litetao"/>
+    <icon drawable="@drawable/xiaomi" name="xiaomi" package="com.xiaomi.shop"/>
+    <icon drawable="@drawable/yitao" name="一淘" package="com.taobao.etao"/>
+    <icon drawable="@drawable/zhangshang" name="zhangshange" package="com.cmbchina.ccd.pluto.cmbActivity"/>
+    <icon drawable="@drawable/zhaoshang" name="zhaoshang" package="cmb.pb"/>
+    <icon drawable="@drawable/renshou" name="renshou" package="com.chinalife.ebz"/>
+    <icon drawable="@drawable/bangla" name="bangla" package="com.ybwl.distributionedition"/>
+    <icon drawable="@drawable/toutiao" name="toutiao" package="com.ss.android.article.news"/>
+    <icon drawable="@drawable/toutiao" name="toutiaojisu" package="com.ss.android.article.lite"/>
+    <icon drawable="@drawable/jiuhao" name="jiuhao" package="cn.ninebot.ninebot"/>
+    <icon drawable="@drawable/tim" name="tim" package="com.tencent.tim"/>
+    <icon drawable="@drawable/weibo" name="weibo" package="com.sina.weibo"/>
+    <icon drawable="@drawable/weibo" name="weibogj" package="com.weico.international"/>
+    <icon drawable="@drawable/weibo" name="weibolite" package="com.sina.weibolite"/>
+    <icon drawable="@drawable/cay" name="cayicons" package="app.lawnchair.lawnicons"/>
+    <icon drawable="@drawable/qq" name="qq" package="com.tencent.mobileqq"/>
+    <icon drawable="@drawable/dianying" name="dianying" package="com.sonymoblle.cinemapro"/>
+    <icon drawable="@drawable/donghuafeng" name="donghua" package="tw.com.gamer.android.animad"/>
+    <icon drawable="@drawable/jingdu" name="jingdu" package="com.flyersoft.moonreader"/>
+    <icon drawable="@drawable/jingdu" name="jingdupro" package="com.flyersoft.moonreaderp"/>
+    <icon drawable="@drawable/sheying" name="sheying" package="com.sonymobile.photopro"/>
+    <icon drawable="@drawable/youxizengqiang" name="youxizengqiang" package="com.sonymobile.gameenhancer"/>
+    <icon drawable="@drawable/yundong" name="yundong" package="com.huawei.health"/>
+    <icon drawable="@drawable/anki" name="anki" package="com.app.ankichinas"/>
+    <icon drawable="@drawable/taichiyomi" name="taichiyomi" package="eu.kanade.tachiyomi"/>
+    <icon drawable="@drawable/xuexi" name="xuexitong" package="com.chaoxing.mobile"/>
+    <icon drawable="@drawable/menghuan" name="menghuan" package="com.netease.my.mi"/>
+    <icon drawable="@drawable/menghuan" name="menghuan" package="com.netease.my"/>
+    <icon drawable="@drawable/menghuan" name="menghuan3d" package="com.netease.xy3d.mi"/>
+    <icon drawable="@drawable/menghuan" name="menghuanbt" package="com.mz.xy2"/>
+    <icon drawable="@drawable/cclaidian" name="cclaidian" package="zhs.betale.ccCallBlockerN"/>
+    <icon drawable="@drawable/jihe" name="jihe" package="wangdaye.com.geometricweather"/>
+    <icon drawable="@drawable/mijia" name="mijia" package="com.xiaomi.smarthome"/>
+    <icon drawable="@drawable/wps" name="wps" package="cn.wps.moffice_eng"/>
+    <icon drawable="@drawable/wps" name="wpslite" package="cn.wps.moffice_i18n"/>
+    <icon drawable="@drawable/mt" name="mt" package="bin.mt.plus"/>
+    <icon drawable="@drawable/mt" name="mt" package="bin.mt.plus.canary"/>
+    <icon drawable="@drawable/xplayer" name="xplayer" package="video.player.videoplayer"/>
+    <icon drawable="@drawable/douyin" name="douyin" package="com.ss.android.ugc.aweme"/>
+    <icon drawable="@drawable/douyin" name="douyinhs" package="com.ss.android.ugc.live"/>
+    <icon drawable="@drawable/douyin" name="douyinlite" package="com.ss.android.ugc.aweme.lite"/>
+    <icon drawable="@drawable/xmly" name="xmly" package="com.ximalaya.ting.android"/>
+    <icon drawable="@drawable/halo" name="halo" package="com.jingyao.easybike"/>
+    <icon drawable="@drawable/aiwanji" name="aiwanji" package="com.byyoung.setting"/>
+    <icon drawable="@drawable/qingli" name="qingli" package="com.ktls.fileinfo"/>
+    <icon drawable="@drawable/gaoji" name="R" package="gjzs.online"/>
+    <icon drawable="@drawable/clash" name="clash" package="com.github.kr328.clash"/>
+    <icon drawable="@drawable/clash" name="clash" package="com.dashboard.kotlin"/>
+    <icon drawable="@drawable/dingding" name="dingding" package="com.alibaba.android.rimet"/>
+    <icon drawable="@drawable/dingding" name="dingding" package="com.alibaba.dingtalk.global"/>
+    <icon drawable="@drawable/cctalk" name="cctalk" package="com.hujiang.cctalk"/>
+    <icon drawable="@drawable/island" name="island" package="com.oasisfeng.island"/>
+    <icon drawable="@drawable/bubei" name="bubei" package="cn.com.langeasy.LangEasyLexis"/>
+    <icon drawable="@drawable/chiji" name="chiji1" package="com.pubg.newstate"/>
+    <icon drawable="@drawable/chiji" name="chiji2" package="com.tencent.ig"/>
+    <icon drawable="@drawable/chiji" name="chiji3" package="com.tencent.tmgp.pubgmhd"/>
+    <icon drawable="@drawable/smzh" name="smzh" package="com.tencent.tmgp.cod"/>
+    <icon drawable="@drawable/smzh" name="smzhgj" package="com.activision.callofduty.shooter"/>
+    <icon drawable="@drawable/gjzs" name="gjzsh" package="Han.GJZS"/>
+    <icon drawable="@drawable/hupu" name="hupu" package="com.hupu.games"/>
+    <icon drawable="@drawable/lvse" name="lvse" package="com.oasisfeng.greenify"/>
+    <icon drawable="@drawable/lvse" name="lvsepro" package="com.oasisfeng.greenify.pro"/>
+    <icon drawable="@drawable/migu" name="migu" package="tv.icntv.migu"/>
+    <icon drawable="@drawable/migu" name="cmccwm" package="cmccwm.mobilemusic"/>
+    <icon drawable="@drawable/ycyy" name="ycyy" package="com.tsng.hidemyapplist"/>
+    <icon drawable="@drawable/yuanshen" name="yuanshenplay" package="com.miHoYo.GenshinImpact"/>
+    <icon drawable="@drawable/yuanshen" name="yuanshenmi" package="com.miHoYo.ys.mi"/>
+    <icon drawable="@drawable/yuanshen" name="yuanshen" package="com.miHoYo.Yuanshen"/>
+    <icon drawable="@drawable/yuanshen" name="yuanshen" package="com.miHoYo.cloudgames.ys"/>
+    <icon drawable="@drawable/kiwi" name="kiwi" package="com.kiwibrowser.browser"/>
+    <icon drawable="@drawable/lol" name="lolm" package="com.tencent.lolm"/>
+    <icon drawable="@drawable/lol" name="lolp" package="com.riotgames.league.wildrift"/>
+    <icon drawable="@drawable/poweramp" name="poweramp" package="com.maxmpz.audioplayer"/>
+    <icon drawable="@drawable/share" name="share" package="com.hengye.share"/>
+    <icon drawable="@drawable/wavelet" name="wavelet" package="com.pittvandewitt.wavelet"/>
+    <icon drawable="@drawable/budao" name="budao" package="com.lptiyu.tanke"/>
+    <icon drawable="@drawable/douban" name="douban" package="com.douban.frodo"/>
+    <icon drawable="@drawable/hali" name="hali" package="com.tencent.tmgp.harrypotter"/>
+    <icon drawable="@drawable/hali" name="hali" package="com.netease.harrypotter.mi"/>
+    <icon drawable="@drawable/hali" name="hali" package="com.netease.harrypotter"/>
+    <icon drawable="@drawable/litt" name="litiao" package="com.whatsbug.litiaotiao"/>
+    <icon drawable="@drawable/shaoshupai" name="shaoshupai" package="com.sspai.sspaiandroid"/>
+    <icon drawable="@drawable/txsp" name="txsp" package="com.tencent.qqlive"/>
+    <icon drawable="@drawable/wzry" name="wangzhe" package="com.tencent.tmgp.sgame"/>
+    <icon drawable="@drawable/xhs" name="xhs" package="com.xingin.xhs"/>
+    <icon drawable="@drawable/xmyd" name="xmyd" package="com.xiaomi.hm.health"/>
+    <icon drawable="@drawable/yjtq" name="yjtq" package="net.oneplus.weather"/>
+    <icon drawable="@drawable/ysy" name="ysy" package="com.videogo"/>
+    <icon drawable="@drawable/ysy" name="ysy" package="com.ezviz"/>
+    <icon drawable="@drawable/ysy" name="ysy" package="com.ezviz.tv"/>
+    <icon drawable="@drawable/appshare" name="appshare" package="info.muge.appshare"/>
+    <icon drawable="@drawable/baidu" name="baidu" package="com.baidu.searchbox"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.greenpoint.android.mc10086.activity"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.jsmcc"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.xinhang.mobileclient"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.kingpoint.gmcchh"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.sunrise.scmbhc"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.xwtec.sd.mobileclient"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.example.businesshall"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.sitech.ac"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.hbmcc.heshenghuo"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.sinovatech.gxmobile.ui"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.haobo.huilife"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.sh.cm.shydhn"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.bmcc.ms.ui"/>
+    <icon drawable="@drawable/cmcc" name="cmcc" package="com.sitech.sx.wxcs"/>
+    <icon drawable="@drawable/itzj" name="itzj" package="com.ruanmei.ithome"/>
+    <icon drawable="@drawable/lsp" name="lsp" package="org.lsposed.manager"/>
+    <icon drawable="@drawable/office" name="office" package="com.microsoft.office.officehubrow"/>
+    <icon drawable="@drawable/office" name="office" package="com.microsoft.office.officehub"/>
+    <icon drawable="@drawable/onedrive" name="onedrive" package="com.microsoft.skydrive"/>
+    <icon drawable="@drawable/onenote" name="onenote" package="com.microsoft.office.onenote"/>
+    <icon drawable="@drawable/qqfc" name="qqfc" package="com.tencent.tmgp.speedmobile"/>
+    <icon drawable="@drawable/qqyy" name="qqyy" package="com.tencent.qqmusic"/>
+    <icon drawable="@drawable/qqyy" name="qqyy" package="com.tencent.qqmusiclite"/>
+    <icon drawable="@drawable/scene" name="scene" package="com.omarea.vtools"/>
+    <icon drawable="@drawable/see" name="see" package="com.caij.see"/>
+    <icon drawable="@drawable/ted" name="ted" package="com.ted.android"/>
+    <icon drawable="@drawable/v2ray" name="v2ray" package="com.v2ray.ang"/>
+    <icon drawable="@drawable/via" name="via" package="mark.via"/>
+    <icon drawable="@drawable/jh" name="jh" package="com.chinamworld.main"/>
+    <icon drawable="@drawable/nh" name="nh" package="com.android.bankabc"/>
+    <icon drawable="@drawable/zh" name="zh" package="com.chinamworld.bocmbci"/>
+    <icon drawable="@drawable/gh" name="icbc" package="com.icbc"/>
+    <icon drawable="@drawable/txhy" name="txhy" package="com.tencent.wemeet.app"/>
+    <icon drawable="@drawable/jyyy" name="jyyy" package="com.salt.music"/>
+    <icon drawable="@drawable/xmyy" name="xmyy" package="com.wh.music"/>
+    <icon drawable="@drawable/retro" name="retro" package="code.name.monkey.retromusic"/>
+    <icon drawable="@drawable/smbb" name="smbb" package="com.tencent.dm"/>
+    <icon drawable="@drawable/yys" name="yys" package="com.netease.onmyoji"/>
+    <icon drawable="@drawable/yys" name="yys" package="com.netease.onmyoji.bili"/>
+    <icon drawable="@drawable/mys" name="mys" package="com.mihoyo.hyperion"/>
+    <icon drawable="@drawable/t12306" name="12306" package="com.MobileTicket"/>
+    <icon drawable="@drawable/steam" name="steam" package="com.valvesoftware.android.steam.community"/>
+    <icon drawable="@drawable/dmzj" name="dmzj" package="com.dmzj.manhua"/>
+    <icon drawable="@drawable/dmzj" name="dmzj" package="com.nsapp.dmzj.MainActivity"/>
+    <icon drawable="@drawable/dmzj" name="dmzj" package="com.nsapp.dmzj"/>
+    <icon drawable="@drawable/fate" name="fate" package="com.aniplex.fategrandorder.en"/>
+    <icon drawable="@drawable/fate" name="fate" package="com.bilibili.fgo.uc"/>
+    <icon drawable="@drawable/fate" name="fate" package="com.bilibili.fgo.mi"/>
+    <icon drawable="@drawable/fate" name="fate" package="com.bilibili.fatego"/>
+    <icon drawable="@drawable/fate" name="fate" package="com.aniplex.fategrandorder"/>
+    <icon drawable="@drawable/zspms" name="zspms" package="com.kurogame.haru.aligames"/>
+    <icon drawable="@drawable/zspms" name="zspms" package="com.kurogame.haru.mi"/>
+    <icon drawable="@drawable/zspms" name="zspms" package="com.kurogame.gplay.punishing.grayraven.en"/>
+    <icon drawable="@drawable/zspms" name="zspms" package="com.kurogame.haru.bilibili"/>
+    <icon drawable="@drawable/zspms" name="zspms" package="com.kurogame.haru.hero"/>
+    <icon drawable="@drawable/ctfm" name="ctfm" package="io.microshow.fm"/>
+    <icon drawable="@drawable/sd_maid" name="sdmaid" package="eu.thedarken.sdm"/>
+    <icon drawable="@drawable/sp" name="sp" package="xyz.maona.lockoo"/>
+    <icon drawable="@drawable/mic" name="mic" package="com.sunshine.freeform"/>
+    <icon drawable="@drawable/nopopping" name="nopopping" package="rikka.nopeeking"/>
+    <icon drawable="@drawable/sd_maid" name="sdmaidpro" package="eu.thedarken.sdm.unlocker"/>
+    <icon drawable="@drawable/vmos" name="vmospro" package="com.vmos.ggp"/>
+    <icon drawable="@drawable/vmos" name="vmos" package="com.vmos.app"/>
+    <icon drawable="@drawable/vmos" name="vmospro" package="com.vmos.pro"/>
+    <icon drawable="@drawable/xplore" name="xplore" package="com.lonelycatgames.Xplore"/>
+    <icon drawable="@drawable/mtxx" name="mtxx" package="com.mt.mtxx.mtxx"/>
+    <icon drawable="@drawable/alook_browser" name="alook" package="alook.browser"/>
+    <icon drawable="@drawable/cn_com_sjbank_mbank" name="sjbank" package="cn.com.sjbank.mbank"/>
+    <icon drawable="@drawable/ic_cn_kuwo_player" name="kuwo" package="cn.kuwo.player"/>
+    <icon drawable="@drawable/ic_cn_xiaochuankeji_zuiyoulite" name="zuiyou" package="cn.xiaochuankeji.zuiyouLite"/>
+    <icon drawable="@drawable/ic_com_app_shanghai_metro" name="metro" package="com.app.shanghai.metro"/>
+    <icon drawable="@drawable/ic_com_baidu_baidumap" name="baidumap" package="com.baidu.BaiduMap"/>
+    <icon drawable="@drawable/ic_com_chinatelecom_bestpayclient" name="yizhifu" package="com.chinatelecom.bestpayclient"/>
+    <icon drawable="@drawable/ic_com_dfg_dftb" name="aitaojin" package="com.dfg.dftb"/>
+    <icon drawable="@drawable/ic_com_didikee_gifparser" name="gif" package="com.didikee.gifparser"/>
+    <icon drawable="@drawable/ic_com_duowan_kiwi" name="huya" package="com.duowan.kiwi"/>
+    <icon drawable="@drawable/ic_com_dv_adm" name="adm" package="com.dv.adm"/>
+    <icon drawable="@drawable/ic_com_exthmui_message" name="exth" package="com.exthmui.message"/>
+    <icon drawable="@drawable/ic_com_hpbr_bosszhipin" name="boss" package="com.hpbr.bosszhipin"/>
+    <icon drawable="@drawable/ic_com_hypergryph_arknights" name="明日方舟" package="com.hypergryph.arknights"/>
+    <icon drawable="@drawable/ic_com_jd_jdlite" name="jdlite" package="com.jd.jdlite"/>
+    <icon drawable="@drawable/ic_com_jd_pingou" name="京喜" package="com.jd.pingou"/>
+    <icon drawable="@drawable/ic_com_jingdong_pdj" name="京东到家" package="com.jingdong.pdj"/>
+    <icon drawable="@drawable/ic_com_jiuyu_sptcc_cordova" name="上海交通卡" package="com.jiuyu.sptcc.cordova"/>
+    <icon drawable="@drawable/ic_com_jlpay_feishua" name="feishua" package="com.jlpay.feishua"/>
+    <icon drawable="@drawable/ic_com_klks_dq" name="考拉" package="com.klks.dq"/>
+    <icon drawable="@drawable/ic_com_kuss_rewind" name="倒带" package="com.kuss.rewind"/>
+    <icon drawable="@drawable/ic_com_lakala_shanghutong" name="拉卡拉" package="com.lakala.shanghutong"/>
+    <icon drawable="@drawable/ic_com_lemon_lv" name="剪映" package="com.lemon.lv"/>
+    <icon drawable="@drawable/ic_com_listen1_app" name="com.listen1.app" package="com.listen1.app"/>
+    <icon drawable="@drawable/ic_com_max_xiaoheihe" name="小黑盒" package="com.max.xiaoheihe"/>
+    <icon drawable="@drawable/ic_com_microsoft_math" name="微软数学" package="com.microsoft.math"/>
+    <icon drawable="@drawable/ic_com_minitools_pdfscan" name="pdf扫描" package="com.minitools.pdfscan"/>
+    <icon drawable="@drawable/ic_com_netease_gl" name="网易大神" package="com.netease.gl"/>
+    <icon drawable="@drawable/ic_com_nongfu_customer" name="送水到府" package="com.nongfu.customer"/>
+    <icon drawable="@drawable/ic_com_one_woodenletter" name="一个木函" package="com.One.WoodenLetter"/>
+    <icon drawable="@drawable/ic_com_oppo_store" name="oppo商场" package="com.oppo.store"/>
+    <icon drawable="@drawable/ic_com_pingan_paces_ccms" name="中国平安" package="com.pingan.paces.ccms"/>
+    <icon drawable="@drawable/ic_com_pwrd_hotta_laohu" name="幻塔" package="com.pwrd.hotta.laohu"/>
+    <icon drawable="@drawable/ic_com_qidian_qdreader" name="起点" package="com.qidian.QDReader"/>
+    <icon drawable="@drawable/ic_com_qingqikeji_blackhorse_passenger" name="青桔" package="com.qingqikeji.blackhorse.passenger"/>
+    <icon drawable="@drawable/ic_com_rarlab_rar" name="rar" package="com.rarlab.rar"/>
+    <icon drawable="@drawable/ic_com_rt_market_fresh" name="大润发" package="com.rt.market.fresh"/>
+    <icon drawable="@drawable/ic_com_samruston_twitter" name="推特" package="com.samruston.twitter"/>
+    <icon drawable="@drawable/ic_com_sina_mail_free" name="新浪邮箱" package="com.sina.mail.free"/>
+    <icon drawable="@drawable/ic_com_smile_gifmaker" name="快手" package="com.smile.gifmaker"/>
+    <icon drawable="@drawable/ic_com_sohu_supermarie" name="摸鱼" package="com.sohu.supermarie"/>
+    <icon drawable="@drawable/ic_com_sup_android_superb" name="皮皮虾" package="com.sup.android.superb"/>
+    <icon drawable="@drawable/ic_com_taptap" name="tap" package="com.taptap"/>
+    <icon drawable="@drawable/ic_com_tencent_androidqqmail" name="qq邮箱" package="com.tencent.androidqqmail"/>
+    <icon drawable="@drawable/ic_com_unionpay" name="云闪付" package="com.unionpay"/>
+    <icon drawable="@drawable/ic_com_wudaokou_hippo" name="盒马" package="com.wudaokou.hippo"/>
+    <icon drawable="@drawable/ic_com_yaya_zone" name="叮咚买菜" package="com.yaya.zone"/>
+    <icon drawable="@drawable/ic_com_yeahka_mach_android_openpos" name="com.yeahka.mach.android.openpos" package="com.yeahka.mach.android.openpos"/>
+    <icon drawable="@drawable/ic_gov_anzong_androidnga" name="nga" package="gov.anzong.androidnga"/>
+    <icon drawable="@drawable/ic_me_zhanghai_android_files" name="质感文件" package="me.zhanghai.android.files"/>
+    <icon drawable="@drawable/ic_tech_gentleflow_fireworksreader" name="tech.gentleflow.fireworksreader" package="tech.gentleflow.fireworksreader"/>
+    <icon drawable="@drawable/ic_tw_nekomimi_nekogram" name="nekogram" package="tw.nekomimi.nekogram"/>
+    <icon drawable="@drawable/ic_xyz_hanks_note" name="蜜蜂" package="xyz.hanks.note"/>
+    <icon drawable="@drawable/ic_com_mojang_minecraftpe" name="mc" package="com.mojang.minecraftpe"/>
+    <icon drawable="@drawable/ic_com_example_bwappdoor" name="黑白门" package="com.example.bwappdoor"/>
+    <icon drawable="@drawable/ic_cn_nr19_mbrowser" package="cn.nr19.mbrowser"/>
+    <icon drawable="@drawable/ic_cn_wq_myandroidtoolspro" package="cn.wq.myandroidtoolspro"/>
+    <icon drawable="@drawable/ic_cn_xiaochuankeji_tieba" package="cn.xiaochuankeji.tieba"/>
+    <icon drawable="@drawable/ic_com_alensw_picfolder" package="com.alensw.PicFolder"/>
+    <icon drawable="@drawable/ic_com_android_stk" package="com.android.stk"/>
+    <icon drawable="@drawable/ic_com_apkpure_aegon" package="com.apkpure.aegon"/>
+    <icon drawable="@drawable/ic_com_baidu_homework" package="com.baidu.homework"/>
+    <icon drawable="@drawable/ic_com_blend_rolly" package="com.blend.rolly"/>
+    <icon drawable="@drawable/ic_com_blizzard_bma_cn" package="com.blizzard.bma.cn"/>
+    <icon drawable="@drawable/ic_com_blizzard_messenger" package="com.blizzard.messenger"/>
+    <icon drawable="@drawable/ic_com_chaoxing_mobile_wuhanuniversity" package="com.chaoxing.mobile.wuhanuniversity"/>
+    <icon drawable="@drawable/ic_com_chery_cherylife" package="com.chery.cherylife"/>
+    <icon drawable="@drawable/ic_com_digibites_accubattery" package="com.digibites.accubattery"/>
+    <icon drawable="@drawable/ic_com_dongqiudi_news" package="com.dongqiudi.news"/>
+    <icon drawable="@drawable/ic_com_easilydo_mail" package="com.easilydo.mail"/>
+    <icon drawable="@drawable/ic_com_example_administrator_searchpicturetool" package="com.example.administrator.searchpicturetool"/>
+    <icon drawable="@drawable/ic_com_farplace_qingzhuo" package="com.farplace.qingzhuo"/>
+    <icon drawable="@drawable/ic_com_fdg_flashplay_farsee" package="com.fdg.flashplay.farsee"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_walletnfcrel_1" package="com.google.android.apps.walletnfcrel-1"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_walletnfcrel" package="com.google.android.apps.walletnfcrel"/>
+    <icon drawable="@drawable/ic_com_google_earth" package="com.google.earth"/>
+    <icon drawable="@drawable/ic_com_ichi2_anki" package="com.ichi2.anki"/>
+    <icon drawable="@drawable/ic_com_ideashower_readitlater_pro" package="com.ideashower.readitlater.pro"/>
+    <icon drawable="@drawable/ic_com_iflytek_inputmethod" package="com.iflytek.inputmethod"/>
+    <icon drawable="@drawable/ic_com_ilongyuan_cytus2_ly_taptap" package="com.ilongyuan.cytus2.ly.TapTap"/>
+    <icon drawable="@drawable/ic_com_iudesk_android_photo_editor" package="com.iudesk.android.photo.editor"/>
+    <icon drawable="@drawable/ic_com_jzzs_parentshelper" package="com.jzzs.ParentsHelper"/>
+    <icon drawable="@drawable/ic_com_kuaiduizuoye_scan" package="com.kuaiduizuoye.scan"/>
+    <icon drawable="@drawable/ic_com_linroid_zlive" package="com.linroid.zlive"/>
+    <icon drawable="@drawable/ic_com_macindex_macindex" package="com.macindex.macindex"/>
+    <icon drawable="@drawable/ic_com_magicalstory_cleaner" package="com.magicalstory.cleaner"/>
+    <icon drawable="@drawable/ic_com_magicbelt_ninepatch" package="com.magicbelt.ninepatch"/>
+    <icon drawable="@drawable/ic_com_microsoft_office_outlook" package="com.microsoft.office.outlook"/>
+    <icon drawable="@drawable/ic_com_mmbox_xbrowser" package="com.mmbox.xbrowser"/>
+    <icon drawable="@drawable/ic_com_mojang_minecraftpe" package="com.mojang.minecraftpe"/>
+    <icon drawable="@drawable/ic_com_mutangtech_qianji" package="com.mutangtech.qianji"/>
+    <icon drawable="@drawable/ic_com_mycp_videocompress" package="com.mycp.videocompress"/>
+    <icon drawable="@drawable/ic_com_mylrc_mymusic" package="com.mylrc.mymusic"/>
+    <icon drawable="@drawable/ic_com_nasoft_socmark" package="com.nasoft.socmark"/>
+    <icon drawable="@drawable/ic_com_netease_x19" package="com.netease.x19"/>
+    <icon drawable="@drawable/ic_com_nowcasting_activity" package="com.nowcasting.activity"/>
+    <icon drawable="@drawable/ic_com_oneplus_note" package="com.oneplus.note"/>
+    <icon drawable="@drawable/ic_com_osfans_mcpdict" package="com.osfans.mcpdict"/>
+    <icon drawable="@drawable/ic_com_particlesdevs_photoncamera" package="com.particlesdevs.photoncamera"/>
+    <icon drawable="@drawable/ic_com_perol_pixez" package="com.perol.pixez"/>
+    <icon drawable="@drawable/ic_xyz_paphonb_quickstepswitcher" package="xyz.paphonb.quickstepswitcher"/>
+    <icon drawable="@drawable/ic_web1n_stopapp" package="web1n.stopapp"/>
+    <icon drawable="@drawable/ic_tv_acfundanmaku_video" package="tv.acfundanmaku.video"/>
+    <icon drawable="@drawable/ic_sonice_pro" package="sonice.pro"/>
+    <icon drawable="@drawable/ic_ru_zdevs_zarchiver_pro" package="ru.zdevs.zarchiver.pro"/>
+    <icon drawable="@drawable/ic_org_wikipedia" package="org.wikipedia"/>
+    <icon drawable="@drawable/ic_org_meowcat_edxposed_manager" package="org.meowcat.edxposed.manager"/>
+    <icon drawable="@drawable/ic_notion_id" package="notion.id"/>
+    <icon drawable="@drawable/ic_net_dinglisch_android_taskerm" package="net.dinglisch.android.taskerm"/>
+    <icon drawable="@drawable/ic_net_atlassc_shinchven_sharemoments" package="net.atlassc.shinchven.sharemoments"/>
+    <icon drawable="@drawable/ic_moe_shizuku_redirectstorage" package="moe.shizuku.redirectstorage"/>
+    <icon drawable="@drawable/ic_me_piebridge_brevent" package="me.piebridge.brevent"/>
+    <icon drawable="@drawable/ic_me_gfuil_bmap" package="me.gfuil.bmap"/>
+    <icon drawable="@drawable/ic_me_alzz_awsl" package="me.alzz.awsl"/>
+    <icon drawable="@drawable/ic_io_wallpaperengine_weclient" package="io.wallpaperengine.weclient"/>
+    <icon drawable="@drawable/ic_io_github_sds100_keymapper" package="io.github.sds100.keymapper"/>
+    <icon drawable="@drawable/ic_idm_internet_download_manager_plus" package="idm.internet.download.manager.plus"/>
+    <icon drawable="@drawable/ic_flar2_devcheck" package="flar2.devcheck"/>
+    <icon drawable="@drawable/ic_crixec_adbtoolkitsinstall" package="crixec.adbtoolkitsinstall"/>
+    <icon drawable="@drawable/ic_com_youdao_dict" package="com.youdao.dict"/>
+    <icon drawable="@drawable/ic_com_xjcheng_musictageditor" package="com.xjcheng.musictageditor"/>
+    <icon drawable="@drawable/ic_com_wander_android_wallpaper" package="com.wander.android.wallpaper"/>
+    <icon drawable="@drawable/ic_com_vsco_cam" package="com.vsco.cam"/>
+    <icon drawable="@drawable/ic_com_uzero_baimiao" package="com.uzero.baimiao"/>
+    <icon drawable="@drawable/ic_com_umetrip_android_msky_app" package="com.umetrip.android.msky.app"/>
+    <icon drawable="@drawable/ic_com_tencent_jkchess" package="com.tencent.jkchess"/>
+    <icon drawable="@drawable/ic_com_speedsoftware_rootexplorer" package="com.speedsoftware.rootexplorer"/>
+    <icon drawable="@drawable/ic_com_smartisan_notes" package="com.smartisan.notes"/>
+    <icon drawable="@drawable/ic_com_shizhuang_duapp" package="com.shizhuang.duapp"/>
+    <icon drawable="@drawable/ic_com_sec_android_app_shealth" package="com.sec.android.app.shealth"/>
+    <icon drawable="@drawable/ic_com_ruanmei_yunrili" package="com.ruanmei.yunrili"/>
+    <icon drawable="@drawable/ic_com_quan_toolbar" package="com.quan.toolbar"/>
+    <icon drawable="@drawable/ic_com_prpr_musedash_taptap" package="com.prpr.musedash.TapTap"/>
+    <icon drawable="@drawable/ic_com_drakeet_purewriter" package="com.drakeet.purewriter"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_googlevoice" package="com.google.android.apps.googlevoice"/>
+    <icon drawable="@drawable/ic_com_haier_uhome_washer" package="com.haier.uhome.washer"/>
+    <icon drawable="@drawable/ic_com_henzanapp_miaomiaozhe" package="com.henzanapp.miaomiaozhe"/>
+    <icon drawable="@drawable/ic_com_hwabao_hbstockwarning" package="com.hwabao.hbstockwarning"/>
+    <icon drawable="@drawable/ic_com_lphtsccft" package="com.lphtsccft"/>
+    <icon drawable="@drawable/ic_io_legado_play_release" package="io.legado.play.release"/>
+    <icon drawable="@drawable/ic_me_morirain_dev_iconpack_pure" package="me.morirain.dev.iconpack.pure"/>
+    <icon drawable="@drawable/ic_com_android_vending" package="com.android.vending"/>
+    <icon drawable="@drawable/ic_nutstore_android" package="nutstore.android"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_docs_editors_docs" package="com.google.android.apps.docs.editors.docs"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_docs_editors_sheets" package="com.google.android.apps.docs.editors.sheets"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_docs_editors_slides" package="com.google.android.apps.docs.editors.slides"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_docs" package="com.google.android.apps.docs"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_maps" package="com.google.android.apps.maps"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_nbu_files" package="com.google.android.apps.nbu.files"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_photos" package="com.google.android.apps.photos"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_podcasts" package="com.google.android.apps.podcasts"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_subscriptions_red" package="com.google.android.apps.subscriptions.red"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_tachyon" package="com.google.android.apps.tachyon"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_translate" package="com.google.android.apps.translate"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_wallpaper" package="com.google.android.apps.wallpaper"/>
+    <icon drawable="@drawable/ic_com_google_android_apps_youtube_music" package="com.google.android.apps.youtube.music"/>
+    <icon drawable="@drawable/ic_com_google_android_calculator" package="com.google.android.calculator"/>
+    <icon drawable="@drawable/ic_com_google_android_contacts" package="com.google.android.contacts"/>
+    <icon drawable="@drawable/ic_com_google_android_gm" package="com.google.android.gm"/>
+    <icon drawable="@drawable/ic_com_google_android_googlecamera" package="com.google.android.GoogleCamera"/>
+    <icon drawable="@drawable/ic_com_google_android_googlequicksearchbox" package="com.google.android.googlequicksearchbox"/>
+    <icon drawable="@drawable/ic_com_google_android_play_games" package="com.google.android.play.games"/>
+    <icon drawable="@drawable/ic_com_google_android_youtube" package="com.google.android.youtube"/>
+    <icon drawable="@drawable/ic_xyz_aethersx2_android" package="xyz.aethersx2.android"/>
+    <icon drawable="@drawable/ic_com_bilibili_comic" package="com.bilibili.comic"/>
+    <icon drawable="@drawable/ic_com_google_ar_lens" package="com.google.ar.lens"/>
+    <icon drawable="@drawable/ic_com_dsemu_drastic" package="com.dsemu.drastic"/>
+    <icon drawable="@drawable/ic_cn_deepink_reader" package="cn.deepink.reader"/>
+    <icon drawable="@drawable/ic_com_clover_idaily" package="com.clover.idaily"/>
+    <icon drawable="@drawable/ic_com_danielstudio_app_wowtu" package="com.danielstudio.app.wowtu"/>
+    <icon drawable="@drawable/ic_com_fastemulator_gba" package="com.fastemulator.gba"/>
+    <icon drawable="@drawable/ic_com_qq_ac_android" package="com.qq.ac.android"/>
+    <icon drawable="@drawable/ic_com_sand_airdroid" package="com.sand.airdroid"/>
+    <icon drawable="@drawable/ic_com_tencent_wework" package="com.tencent.wework"/>
+    <icon drawable="@drawable/ic_com_yingyonghui_market" package="com.yingyonghui.market"/>
+    <icon drawable="@drawable/ic_me_ghui_v2er" package="me.ghui.v2er"/>
+    <icon drawable="@drawable/ic_nextapp_fx" package="nextapp.fx"/>
+    <icon drawable="@drawable/ic_org_citra_citra_emu" package="org.citra.citra_emu"/>
+    <icon drawable="@drawable/ic_org_ppsspp_ppsspp" package="org.ppsspp.ppsspp"/>
+    <icon drawable="@drawable/ic_remix_myplayer" package="remix.myplayer"/>
+</icons>
